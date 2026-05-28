@@ -93,7 +93,7 @@ login(token=os.environ.get("HF_TOKEN"))
 
 ---
 
-## Data & model availability
+## Data availability
 
 | Resource | URL |
 |----------|-----|
