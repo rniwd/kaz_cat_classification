@@ -98,7 +98,6 @@ login(token=os.environ.get("HF_TOKEN"))
 | Resource | URL |
 |----------|-----|
 | Dataset (CSV) | [GitHub](https://github.com/nazerkegalymkyzy97/data/blob/main/Desktop/dataset-kaz/df20.csv) |
-| Fine-tuned model | [Hugging Face — Rniwd/Kaz_Roberta_fine_tuned](https://huggingface.co/Rniwd/Kaz_Roberta_fine_tuned) |
 
 ---
 
